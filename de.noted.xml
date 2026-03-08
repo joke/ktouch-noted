@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<course>
+ <id>{f56520a1-e318-4e70-bd2c-e8733fbc845b}</id>
+ <title>Noted</title>
+ <description>Kurs für das Noted-Tastaturlayout (Neo-Familie, Deutsch-optimiert)</description>
+ <keyboardLayout>noted</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{1b344ee3-9d27-4a56-afca-74c9a8fc38d4}</id>
+   <title>Grundstellung (1)</title>
+   <newCharacters>csietnrh</newCharacters>
+   <text>eee eee eee ttt ttt ttt eee eee ttt ttt eee ttt eee ttt eee
+ete ete ete tet tet tet ete ete ete tet tet tet ete tet ete
+iii iii iii nnn nnn nnn iii iii nnn nnn iii nnn iii nnn iii
+ini ini ini nin nin nin ini ini ini nin nin nin ini nin ini
+ete ini ete ini ete ini ete ini tet nin tet nin tet nin tet
+sss sss sss rrr rrr rrr sss sss rrr rrr sss rrr sss rrr sss
+srs srs srs rsr rsr rsr srs srs srs rsr rsr rsr srs rsr srs
+ccc ccc ccc hhh hhh hhh ccc ccc hhh hhh ccc hhh ccc hhh ccc
+chc chc chc hch hch hch chc chc chc hch hch hch chc hch chc
+eee ttt iii nnn sss rrr ccc hhh eee ttt iii nnn sss rrr ccc</text>
+  </lesson>
+  <lesson>
+   <id>{b503e4a6-407c-4100-8102-b0b4392f46ca}</id>
+   <title>Grundstellung (2)</title>
+   <newCharacters></newCharacters>
+   <text>csie tnrh csie tnrh csie tnrh csie tnrh csie tnrh csie tnrh
+er er er es es es in in in er er es es in in er es in er es
+ein ein ein nie nie nie ein ein nie nie ein nie ein nie ein
+sei sei sei ist ist ist ich ich ich sei ist sei ist ich sei
+sie sie sie hin hin hin her her her sie hin her sie hin her
+sein sein sein rein rein rein sein rein sein rein rein sein
+nein nein nein hier hier hier sich sich nicht nicht sich
+nicht nicht recht recht sich nicht recht sich nicht recht
+stein stein stein stern stern stern stein stern stein stern
+stirn stirn stirn reist reist reist stirn reist stirn reist
+heiter heiter heiter stich stich stich heiter stich heiter</text>
+  </lesson>
+  <lesson>
+   <id>{891527d0-c4f5-4165-9ae0-f092d24e876b}</id>
+   <title>o und d</title>
+   <newCharacters>od</newCharacters>
+   <text>eoe eoe eoe oeo oeo oeo eoe eoe oeo oeo eoe oeo eoe oeo eoe
+tdt tdt tdt dtd dtd dtd tdt tdt dtd dtd tdt dtd tdt dtd tdt
+eoe tdt eoe tdt eoe tdt eoe tdt oeo dtd oeo dtd oeo dtd oeo
+die die die der der der die die der der die der die der die
+den den den dort dort dort doch doch doch den dort doch den
+oder oder oder doch doch doch oder oder doch oder doch oder
+dein dein dein neid neid neid dein dein neid neid dein neid
+rot rot rot ton ton ton ort ort ort rot ton ort rot ton ort
+dose dose dose nord nord nord donner donner donner dose nord
+osten osten osten sonde sonde sonde osten sonde osten sonde</text>
+  </lesson>
+  <lesson>
+   <id>{eba7dc17-29cb-4c8a-b49b-13c315def326}</id>
+   <title>o und d (2)</title>
+   <newCharacters></newCharacters>
+   <text>so so so ort ort ort ton ton ton so ort ton so ort ton so
+noten noten noten osten osten noten osten noten osten noten
+dienen dienen dienen sorte sorte sorte dienen sorte dienen
+tochter tochter tochter orden orden orden tochter orden
+er ist dort er ist dort sie ist nicht dort doch ist er dort
+doch nicht hier doch nicht dort nicht dort nicht hier nicht
+der stern scheint der stern scheint der stern scheint stern
+sie reist nicht er reist dort sie reist dort er reist nicht
+die note ist dort der stein ist dort rot ist der stein hier
+nicht dort nicht hier doch hier doch dort sich hier dort</text>
+  </lesson>
+  <lesson>
+   <id>{d4237bc1-d4da-4c0c-892c-a9243d0a1233}</id>
+   <title>Übung</title>
+   <newCharacters></newCharacters>
+   <text>stein stern stirn stein stern stirn stein stern stirn stein
+sich nicht dort sich hier nicht sich nicht dort sich nicht
+der stern scheint die note ist dort der stein ist rot hier
+er reist nicht doch dort nicht hier doch ist er reist dort
+sie dient hier er dient dort sie dient nicht hier er dient
+tochter donner tochter donner tochter donner donner tochter
+dose noten osten noten dose noten osten noten dose osten
+orden sorte orden sorte dienen dienen orden sorte orden
+heiter reist stirn stein donner dient nicht nicht dort ort
+der ton ist nicht dort der stern scheint tochter ist hier</text>
+  </lesson>
+  <lesson>
+   <id>{41ef1c66-18ef-46c9-adf2-ef9037dda761}</id>
+   <title>a und l</title>
+   <newCharacters>al</newCharacters>
+   <text>eae eae eae aea aea aea eae eae aea aea eae aea eae aea eae
+rlr rlr rlr lrl lrl lrl rlr rlr lrl lrl rlr lrl rlr lrl rlr
+eae rlr eae rlr eae rlr eae rlr aea lrl aea lrl aea lrl aea
+als als als all all all alt alt alt als all alt als all alt
+land land land last last last laden laden laden land last
+lesen lesen lesen licht licht licht lesen licht lesen licht
+also also also allein allein allein also allein also allein
+ideal ideal ideal detail detail ideal detail ideal detail
+talent talent talent taler taler talent taler talent taler
+halten halten halten leisten leisten leisten halten leisten
+soldat soldat soldat nation nation nation soldat nation</text>
+  </lesson>
+  <lesson>
+   <id>{90dad77c-9859-44e7-9737-e15d59392981}</id>
+   <title>a und l (2)</title>
+   <newCharacters></newCharacters>
+   <text>anleiten anleiten einhalten einhalten anleiten einhalten
+schale schale schale inhalt inhalt inhalt schale inhalt
+sandstein sandstein sandstein schale inhalt sandstein schale
+er hielt alles er leistete nicht alles er leistete allein
+die last ist dort die last ist hier die last ist nicht dort
+also nicht dort also hier nicht also dort nicht also dort
+der taler landet der taler landet dort der taler ist hier
+daniel reiste dahin daniel reiste nicht dahin daniel reiste
+taler land detail talent schale inhalt nation soldat sternstein taler last licht land laden laden lesen leisten all</text>
+  </lesson>
+  <lesson>
+   <id>{bcff118e-3ffa-45d3-9a46-f41decf86f5f}</id>
+   <title>u und m</title>
+   <newCharacters>um</newCharacters>
+   <text>iui iui iui uiu uiu uiu iui iui uiu uiu iui uiu iui uiu iui
+nmn nmn nmn mnm mnm mnm nmn nmn mnm mnm nmn mnm nmn mnm nmn
+iui nmn iui nmn iui nmn iui nmn uiu mnm uiu mnm uiu mnm uiu
+und und und um um um muss muss muss und um muss und um muss
+mit mit mit mehr mehr mehr uns uns uns mit mehr uns mit mehr
+mut mut mut drum drum drum mund mund mund mut drum mund mut
+hund hund hund stunde stunde stunde hund stunde hund stunde
+mensch mensch mensch unter unter unter mensch unter mensch
+schule schule schule muster muster muster schule muster
+natur natur natur stimmt stimmt stimmt natur stimmt natur
+mittel mittel mittel mutter mutter mutter mittel mutter</text>
+  </lesson>
+  <lesson>
+   <id>{f7c51f4c-f7ad-4a37-95f8-161de79e37ac}</id>
+   <title>u und m (2)</title>
+   <newCharacters></newCharacters>
+   <text>malen malen malen strom strom strom herum herum malen strom
+museum museum museum turm turm turm ruhm ruhm ruhm museum
+raum raum raum mantel mantel raum mantel raum mantel raum
+manchmal manchmal manchmal schultern schultern manchmal
+nachteil nachteil nachteil manchmal nachteil schultern
+er ist im raum sie ist manchmal herum mantel oder nachteil
+die schule lehrt den menschen er lernt in der schule noch
+muster natur unter muster natur unter muster natur unter
+stunden mensch ruhm turm raum mantel schultern mutter mut
+nachteil natur schule mantel stunden mensch ruhm turm raum</text>
+  </lesson>
+  <lesson>
+   <id>{a30d9d9f-823d-4fcd-8f28-fe7edf4fb458}</id>
+   <title>, und .</title>
+   <newCharacters>,.</newCharacters>
+   <text>n,n n,n n,n ,n, ,n, ,n, n,n n,n ,n, ,n, n,n ,n, n,n ,n, n,n
+r.r r.r r.r .r. .r. .r. r.r r.r .r. .r. r.r .r. r.r .r. r.r
+n,n r.r n,n r.r n,n r.r n,n r.r ,n, .r. ,n, .r. ,n, .r. ,n,
+mensch, mensch. schule, schule. natur, natur. muster, muster.
+stunde, stunden. raum, raum. ort, orte. dose, dosen.
+er ist dort. sie reist nicht. doch nicht hier. er dient dort.
+und dann, und dann. oder so, oder so. nicht dort, nicht hier.
+die schule, der mensch, das muster. sie lernt, er lernt.
+das land, der mut, die schule. der mensch lernt. natur, natur.
+er ist im raum, und sie ist nicht dort. das stimmt nicht.
+das muster stimmt. die schule lehrt den menschen, er lernt.</text>
+  </lesson>
+  <lesson>
+   <id>{2fe388dd-8b61-4ff4-89b3-349d3703556a}</id>
+   <title>Übung</title>
+   <newCharacters></newCharacters>
+   <text>der mensch lernt in der schule. die natur ist ein muster.
+unter dem turm ist ein stein. das land ist schon sehr alt.
+er reist durch das land und lernt. sie lernt in der schule.
+das talent ruht in der natur. schule, talent, muster, natur.
+stunden lernt er, dann ist er so heiter. das muster stimmt.
+manchmal ist der mensch in seinem turm nicht heiter dort.
+die schule lehrt den menschen, und der mensch lernt daraus.
+natur, stunden, talent, muster, schule. er ist dort nicht.
+das muster stimmt nicht. die schule ist nicht dort. so ist.
+er reist, sie lehrt, er lernt. das stimmt so, nicht dort.</text>
+  </lesson>
+  <lesson>
+   <id>{afc7bb9b-92fb-4827-96c5-56420f6104eb}</id>
+   <title>Umschalter</title>
+   <newCharacters>CSIETONRHDALMUG</newCharacters>
+   <text>eEe eEe Ee Ee Ee tTt tTt Tt Tt Tt eEe tTt eEe tTt eEe tTt
+iIi iIi Ii Ii Ii nNn nNn Nn Nn Nn iIi nNn iIi nNn iIi nNn
+aAa aAa Aa Aa Aa lLl lLl Ll Ll Ll aAa lLl aAa lLl aAa lLl
+uUu uUu Uu Uu Uu mMm mMm Mm Mm Mm uUu mMm uUu mMm uUu mMm
+Daniel Daniel Thomas Thomas Martin Sandra Helene Christina
+Deutschland Deutschland Norddeutschland Norddeutschland
+Stein Stern Nord Ost Daniel Sandra Martin Helene Schule
+Er ist dort. Sie reist nicht. Daniel reist nach Deutschland.
+Helene lernt in der Schule. Thomas lehrt den Menschen.
+Der Mensch, die Natur, das Muster. Die Schule lehrt ihn.
+Martin ist hier. Sandra reist. Daniel lehrt in der Schule.</text>
+  </lesson>
+  <lesson>
+   <id>{5c1a8a46-665b-412e-bf87-b6081a02591d}</id>
+   <title>Umschalter (2)</title>
+   <newCharacters></newCharacters>
+   <text>Daniel reist durch Deutschland. Er ist dort und lehrt auch.
+Thomas ist in der Schule. Sandra reist. Martin lehrt dort.
+Helene ist heiter. Christina ist dort und Martin ist hier.
+Die Natur lehrt den Menschen. Das Land ist das Muster hier.
+Der Student liest. Die Studentin liest. Er liest sehr viel.
+Sandra und Martin lernen. Christina lehrt in der Schule.
+Thomas reist nach Norddeutschland. Er lehrt den Menschen.
+Das Muster stimmt nicht. Die Schule ist nicht dort. Stern.
+Helene Daniel Thomas Martin Sandra Christina Deutschland.
+Er ist Student. Sie ist Studentin. Das Talent ist ihr Mut.</text>
+  </lesson>
+  <lesson>
+   <id>{7c6b1258-a7ca-4ca8-85c5-94122e110da3}</id>
+   <title>g und w</title>
+   <newCharacters>gw</newCharacters>
+   <text>tgt tgt tgt gtg gtg gtg tgt tgt gtg gtg tgt gtg tgt gtg tgt
+twt twt twt wtw wtw wtw twt twt wtw wtw twt wtw twt wtw twt
+tgt twt tgt twt tgt twt tgt twt gtg wtw gtg wtw gtg wtw gtg
+gut gut gut weg weg weg wie wie wie gut weg wie gut weg wie
+wir wir wir weit weit weit gegen gegen genug genug wir gegen
+gewinn gewinn gewinn gewalt gewalt gewalt gewinn gewalt
+gerade gerade gerade gleich gleich gleich gerade gleich
+wissen wissen wissen wieder wieder wissen wieder wissen
+Guten Tag. Wie geht es Ihnen? Er geht weg. Sie geht hin.
+Der Gewinn steigt. Wir wissen den Weg. Gerade und gleich.</text>
+  </lesson>
+  <lesson>
+   <id>{3b7b25f8-cad4-425b-ba92-78fb5e45020f}</id>
+   <title>g und w (2)</title>
+   <newCharacters></newCharacters>
+   <text>Er geht gerade weg. Sie wissen es genug. Der Gewinn steigt.
+Wie weit ist der Weg? Gerade und gleich ist gut. Wir gehen.
+Die Gewalt ist nicht gut. Wissen ist der Weg. Geh hin.
+Er geht in die Schule und lernt. Sie wissen den Weg gut.
+Wieder und wieder lernt der Mensch. Der Weg ist nicht weit.
+Das Gewissen ist ein guter Lehrmeister. Wir gehen weiter.
+Wie geht es Ihnen? Er geht weg und lernt dann wieder hier.
+Der Gewinn des Wissens ist gut. Gehen wir gerade den Weg.
+Wir gehen wieder dahin. Genug gelernt. Das Gewissen lehrt.
+Er weiß den Weg. Sie geht wieder. Wir wissen es. Genug.</text>
+  </lesson>
+  <lesson>
+   <id>{62f500ea-b6e8-4675-9896-42abc05525c6}</id>
+   <title>b und p</title>
+   <newCharacters>bp</newCharacters>
+   <text>tpt tpt tpt ptp ptp ptp tpt tpt ptp ptp tpt ptp tpt ptp tpt
+tbt tbt tbt btb btb btb tbt tbt btb btb tbt btb tbt btb tbt
+tpt tbt tpt tbt tpt tbt tpt tbt ptp btb ptp btb ptp btb ptp
+bis bis bis bei bei bei bald bald bald bis bei bald bis bei
+probe probe probe band band band bild bild bild probe band
+bereit bereit bereit breit breit breit bereit breit bereit
+preis preis preis post post post preis preis post preis post
+person person person problem problem problem person problem
+bericht bericht bericht patent patent patent bericht patent
+patient patient patient platten platten platten patient</text>
+  </lesson>
+  <lesson>
+   <id>{3267eced-d2d0-468d-9e43-dc5d56484d61}</id>
+   <title>b und p (2)</title>
+   <newCharacters></newCharacters>
+   <text>Der Bericht ist bereit. Der Patient liegt im Bett. Gut so.
+Die Person ist gut. Das Problem ist nicht gut. Bis bald.
+Bei dem Problem gibt es einen Bericht. Die Probe ist gut.
+Der Preis steigt. Das Band ist breit. Das Bild ist schon.
+Er ist bereit. Sie sind bereit. Das Problem ist ernst hier.
+Patient und Person lernen. Der Bericht liegt bereit hier.
+Das Patent ist beim Problem. Die Person gibt den Bericht.
+Wir sind bereit. Das Band ist da. Der Preis ist gut. Post.
+Die Probe steht bereit. Der Bericht ist beim Patienten gut.
+Bild, Band, Bericht, Patient, Person, Preis. Bis bald.</text>
+  </lesson>
+  <lesson>
+   <id>{04616e2e-b586-4fab-981b-343423332895}</id>
+   <title>f und k</title>
+   <newCharacters>fk</newCharacters>
+   <text>hfh hfh hfh fhf fhf fhf hfh hfh fhf fhf hfh fhf hfh fhf hfh
+hkh hkh hkh khk khk khk hkh hkh khk khk hkh khk hkh khk hkh
+hfh hkh hfh hkh hfh hkh hfh hkh fhf khk fhf khk fhf khk fhf
+fahren fahren fahren finden finden fahren finden fahren
+feld feld feld freund freund freund fertig fertig fertig
+kann kann kann klar klar klar kind kind kind kann klar kind
+kraft kraft kraft kopf kopf kopf kraft kopf kraft kopf kraft
+kommt kommt kommt denkt denkt denkt dankt dankt dankt kommt
+Klar. Fertig. Kraft. Der Freund kommt. Er findet den Weg.
+Das Kind ist klar. Die Kraft ist gut. Kann er kommen? Ja.</text>
+  </lesson>
+  <lesson>
+   <id>{ea92335c-a790-4240-8c31-916d62d1a2a5}</id>
+   <title>f und k (2)</title>
+   <newCharacters></newCharacters>
+   <text>Der Freund kommt. Die Kraft ist gut. Das Kind ist klar.
+Er findet den Weg. Sie finden das Problem. Der Kopf denkt.
+Das Feld ist breit. Der Bericht findet sich. Er kommt.
+Kann er kommen? Kommt er? Dankt er? Er dankt dem Freund.
+Die Kraft des Menschen ist nicht einfach. Er ist fertig.
+Das Kind findet den Weg. Der Freund kommt wieder. Klar.
+Fertig und klar. Das Feld ist gut. Kraft findet sich hier.
+Sie finden das Problem. Der Kopf denkt klar. Wir kommen.
+Das Kind kommt fertig nach Hause. Die Kraft ist da. Gut.
+Finden, fahren, fertig, freund, kraft, kopf, kind, klar.</text>
+  </lesson>
+  <lesson>
+   <id>{5940693a-0f84-4aa4-ae88-ea7f16671bfd}</id>
+   <title>z und y</title>
+   <newCharacters>zy</newCharacters>
+   <text>czc czc czc zcz zcz zcz czc czc zcz zcz czc zcz czc zcz czc
+sys sys sys ysy ysy ysy sys sys ysy ysy sys ysy sys ysy sys
+czc sys czc sys czc sys czc sys zcz ysy zcz ysy zcz ysy zcz
+zu zu zu zeit zeit zeit ziel ziel ziel zu zeit ziel zu zeit
+zehn zehn zehn zeigen zeigen zeigen zehn zeigen zehn zeigen
+satz satz satz salz salz salz herz herz herz satz salz herz
+platz platz platz schutz schutz schutz platz schutz platz
+system system system typ typ typ system typ system typ typ
+zahlt zahlt zahlt zieht zieht zieht zahlt zieht zahlt zieht
+spitze spitze spitze schultz schultz spitze schultz spitze</text>
+  </lesson>
+  <lesson>
+   <id>{ef2b9729-8e29-42ac-ae31-b1d2f241ddf3}</id>
+   <title>z und y (2)</title>
+   <newCharacters></newCharacters>
+   <text>Er zahlt am Platz. Das System zielt auf den Satz. Zum Herz.
+Die Zeit zieht. Der Platz ist gut. Zehn Schritte bis dort.
+Das Salz liegt dort. Der Schutz ist wichtig. Wir gehen zu.
+Zu dem Ziel geht er. Das System zieht gut. Zehn zu Zehn.
+Der Typ ist heiter. Das System zahlt gut. Zeit und Platz.
+Platz, Satz, Salz, Herz, Schutz, Spitze. Zehn Mal zeigen.
+Die Spitze des Systems. Der Satz ist klar. Zeigen wir es.
+Zum Schutz der Person. Das Ziel ist klar. Zahlt er genug?
+Der Typ zahlt gut. Das System zieht. Wir gehen zur Spitze.
+Zeit, Ziel, Zehn, Zeigen. Der Schutz steht bereit. Gut.</text>
+  </lesson>
+  <lesson>
+   <id>{1abb6de1-de67-45bd-aee4-6ab81c8f97b0}</id>
+   <title>ä und ö</title>
+   <newCharacters>äö</newCharacters>
+   <text>eäe eäe eäe äeä äeä äeä eäe eäe äeä äeä eäe äeä eäe äeä eäe
+eöe eöe eöe öeö öeö öeö eöe eöe öeö öeö eöe öeö eöe öeö eöe
+äöä äöä äöä öäö öäö öäö äöä äöä öäö öäö äöä öäö äöä öäö äöä
+spät spät spät hätte hätte hätte spät hätte spät hätte spät
+schön schön schön böse böse böse schön böse schön böse schön
+möchte möchte möchte könnte könnte möchte könnte möchte
+wäre wäre wäre wählen wählen wählen wäre wählen wäre wählen
+hören hören hören öl öl öl öl hören hören öl öl hören hören
+zählen zählen zählen täglich täglich täglich zählen täglich
+nötig nötig nötig störung störung nötig störung nötig</text>
+  </lesson>
+  <lesson>
+   <id>{0c885b07-48c0-402c-822f-c93a3ff75a6a}</id>
+   <title>ü</title>
+   <newCharacters>ü</newCharacters>
+   <text>iüi iüi iüi üiü üiü üiü iüi iüi üiü üiü iüi üiü iüi üiü iüi
+über über über üben üben üben über über üben üben über üben
+würde würde würde grün grün grün würde grün würde grün würde
+müssen müssen müssen kühl kühl kühl müssen kühl müssen kühl
+stück stück stück zurück zurück zurück stück zurück stück
+für für für früh früh früh für früh für früh für früh für
+glück glück glück rücken rücken rücken glück rücken glück
+Wir müssen für den Weg zurück früh genug planen. Gut so.
+Sie würde gern über das Problem sprechen. Das ist ihr Glück.
+Für das Glück müssen wir früh genug zurück. Stück für Stück.</text>
+  </lesson>
+  <lesson>
+   <id>{1d43e266-bd19-4116-a3f5-a46c61881436}</id>
+   <title>ß</title>
+   <newCharacters>ß</newCharacters>
+   <text>hßh hßh hßh ßhß ßhß ßhß hßh hßh ßhß ßhß hßh ßhß hßh ßhß hßh
+fßf fßf fßf ßfß ßfß ßfß fßf fßf ßfß ßfß fßf ßfß fßf ßfß fßf
+hßh fßf hßh fßf hßh fßf hßh fßf ßhß ßfß ßhß ßfß ßhß ßfß ßhß
+groß groß groß weiß weiß weiß groß weiß groß weiß groß weiß
+heißt heißt heißt reißt reißt heißt reißt heißt reißt heißt
+süß süß süß maß maß maß fuß fuß fuß süß maß fuß süß maß fuß
+Straße Straße Straße Straße groß groß Straße groß Straße
+schließen schließen schließen fließen fließen schließen
+Das ist groß. Die Straße ist breit. Er weiß es. Sie heißt.
+Die Straße schließt. Es fließt. Maß und Fuß. Groß und süß.</text>
+  </lesson>
+  <lesson>
+   <id>{e8a98eeb-13d6-45de-b4a3-0717166dfb2e}</id>
+   <title>j und q</title>
+   <newCharacters>jq</newCharacters>
+   <text>fjf fjf fjf jfj jfj jfj fjf fjf jfj jfj fjf jfj fjf jfj fjf
+aqa aqa aqa qaq qaq qaq aqa aqa qaq qaq aqa qaq aqa qaq aqa
+fjf aqa fjf aqa fjf aqa fjf aqa jfj qaq jfj qaq jfj qaq jfj
+je je je ja ja ja jeder jeder jeder je ja jeder je ja jeder
+jetzt jetzt jetzt junge junge junge jetzt junge jetzt junge
+jedoch jedoch jedoch jene jene jene jedoch jene jedoch jene
+quer quer quer quelle quelle quelle quer quelle quer quelle
+Qualität Qualität Qualität Jahr Jahr Jahr Jugend Jugend Jahr
+jedes Jahr eine gute Qualität. Jetzt im Jahr. Je nach Jahr.
+Jede Quelle hat Qualität. Jetzt und je. Jugend lernt quer.</text>
+  </lesson>
+  <lesson>
+   <id>{ae307ad8-7e7a-49a9-b3a9-d95723f9b0bb}</id>
+   <title>x und v</title>
+   <newCharacters>xv</newCharacters>
+   <text>sxs sxs sxs xsx xsx xsx sxs sxs xsx xsx sxs xsx sxs xsx sxs
+cvc cvc cvc vcv vcv vcv cvc cvc vcv vcv cvc vcv cvc vcv cvc
+sxs cvc sxs cvc sxs cvc sxs cvc xsx vcv xsx vcv xsx vcv xsx
+viel viel viel vor vor vor volk volk volk viel vor volk viel
+vers vers vers voll voll voll vers voll vers voll vers voll
+vater vater vater vogel vogel vogel vater vogel vater vogel
+text text text extra extra extra exakt exakt exakt text extra
+praxis praxis praxis texte texte texte texte praxis texte
+existenz existenz existenz texte texte existenz texte exist
+Viel Text extra. Praxis ist voll. Exakt so ist es richtig.</text>
+  </lesson>
+  <lesson>
+   <id>{dde70d39-a122-498b-8681-72246b6b2acf}</id>
+   <title>Übung 1</title>
+   <newCharacters></newCharacters>
+   <text>Text, Praxis, Volk, Jugend, Jahr, Qualität, Existenz, Vers.
+Die Praxis zeigt die Qualität. Das System ist sehr wichtig.
+Jetzt im Jahr jedes Mal die beste Qualität. Jugend lernt.
+Der Text existiert. Die Existenz der Praxis ist gut hier.
+Wie viel Volk kommt? Jetzt zeigt sich die wahre Qualität.
+Durch Praxis wird die Qualität besser. Viel Glück dabei.
+Viel Glück wünscht der Freund. Stück für Stück geht es gut.
+Das System prüft die Qualität jedes Jahr. Schritt für Schritt.
+Jede Quelle hat ihren Wert. Exakt so ist die Praxis richtig.
+Die Straße führt zum Platz. Der Typ zahlt. Groß und schön.</text>
+  </lesson>
+  <lesson>
+   <id>{8bcb2801-a86e-4111-ac2a-3db1d82ddfe7}</id>
+   <title>Übung 2</title>
+   <newCharacters></newCharacters>
+   <text>Qualität, Praxis und Existenz sind wichtig für das System.
+Jetzt wird die Qualität geprüft. Die Jugend lernt täglich.
+Die Jugend lernt jedes Jahr mehr. Der Text ist sehr schön.
+Durch Praxis wird die Qualität besser. Das Volk wählt gut.
+Das System prüft die Qualität jedes Jahr. Schritt für Schritt.
+Viel Glück wünscht der Freund. Sie würde gern mehr lernen.
+Für das Glück müssen wir früh genug zurück. Stück für Stück.
+Die Straße ist groß. Er weiß es. Jetzt und je. Qualität.
+Das Muster stimmt. Die Schule lehrt den Menschen. So ist es.
+Der Text, die Praxis, das System, die Qualität, der Mensch.</text>
+  </lesson>
+ </lessons>
+</course>
